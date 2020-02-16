@@ -1,0 +1,1 @@
+just test project for practicing Django through learning udemy lecture.
